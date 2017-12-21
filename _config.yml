@@ -1,14 +1,13 @@
 # Lang
-language: en
+language: zh-CN
 
 # Dark Mode
 dark: false
 
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  首页: /
+  归档: /archives
 
 # Your Feed Location
 #rss: /atom.xml
@@ -27,30 +26,25 @@ fb_app_id:
 
 
 # Profile
-nickname: NickName
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
+nickname: 小紫baby
+description: Web开发者，价值投资实践者
 
 # Load fontawesome icons? Also see the links option
-icons: true
+icons: false
 
 # Footer area links
 # NOTICE) If you set "icons: false" link names will be clear text
 # If "icons: true" link names will interpreted as fontawesome icon names
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
 links:
-  book: /archives/
-  globe: https://github.com/geekplux/hexo-theme-typing
-  twitter: https://twitter.com/
-  github-alt: https://github.com/
-  youtube-play: https://www.youtube.com/
-  stack-overflow: https://stackoverflow.com/
-  google-plus: https://plus.google.com/
-  rss: /atom.xml
+  博文: /archives/
+  开发: https://github.com/simongfxu
+  投资: https://xueqiu.com/u/1333966811
 
 
 # Info
-archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
-post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post
+archive_footer_content: 只有逆向思维才能让你与众不同。
+post_footer_content: 你做着和他人一样的事，却想脱颖而出，这不可能！
 
 # Gitment
 gitment:
@@ -63,9 +57,9 @@ gitment:
 
 # Donate
 donate:
-  github: https://github.com/geekplux
-  paypal: https://www.paypal.me/geekplux
-  bitcoin: 1AVngxh56oLvAzXsEFnzccUohZdHswjC7j
-  BTCQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/bitcoin.png
-  AliPayQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/alipayQR.jpg
-  WeChatQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/wechatQR.jpg
+  github:
+  paypal:
+  bitcoin:
+  BTCQR:
+  AliPayQR:
+  WeChatQR:
